@@ -1,0 +1,73 @@
+/* ivy marcucci 12-16-2021 */
+/* creating navigation bar*/
+.menu {
+    display: flex;
+    background-color: teal;
+  }
+ .menu li{
+    text-align: center;
+    padding: 5px 5px;
+    height: 50px;
+    flex-grow: 3;
+    list-style: none;
+
+  }
+
+  .menu li a {
+      color: white;
+      text-decoration: none;
+      font-size: x-large;
+
+  }
+
+  .menu li a:hover {
+      font-size: 30px;
+  }
+  /* header design */
+  .header{
+      font-size: large;
+      display: block;
+      color: pink;
+  }
+  /* tableau nav */
+  .tableau {
+      color: pink;
+      display: block;
+  }
+  /* footer custom design */
+  .copyright {
+    display: flex;
+    background-color: rgb(112, 180, 146);
+  }
+.copyright li {
+    text-align: center;
+    padding: 5px 5px;
+    height: 50px;
+    flex-grow: 3;
+    list-style-image: url(../images/realfrenchie-bullet.jpg);
+    font-family: cursive;
+    color: white;
+}
+.copyright li a {
+    color: white;
+    text-decoration: underline overline;
+    font-size: larger;
+}
+.copyright li a:hover {
+    font-size: 20px;
+}
+/* caption custom design */
+.captions {
+    display: flex;
+    background-color: pink;
+}
+.captions li{
+    text-align: center;
+    padding: 10px 10px;
+    height: 10x;
+    flex-grow: 3;
+    list-style: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}

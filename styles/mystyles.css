@@ -1,0 +1,84 @@
+/* ivy marcucci 12-16-2021 */
+/* background change to home page */ 
+.frenchie {
+  background-image: url("../images/frenchbulldog-background.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;   
+}
+/* border around profile pic */
+.profpic {
+  border: 3px solid rgb(255, 255, 255);
+}
+/* background color change on home page */
+.header1{
+  background-color: rgb(236, 145, 224);
+}
+/* background color change on about page */
+.frenchie2 {
+  background-color: pink;
+}
+/* background color change on home page */
+.background3 {
+  background-color: rgb(255, 255, 255);
+}
+/* background color change on home page */
+.c2action {
+  background-color: rgb(236, 145, 224) !important;
+}
+/* background color change on home page */
+.footer1 {
+  background-color: rgb(250, 75, 227);
+}
+/* custom background */
+.missionbg {
+  background-image: url("../images/frenchiebg.jpg");
+  background-position: center;
+  height: 600px;
+}
+/* changed color of font on about me page, style attribute change */
+.aboutmetext {
+  color: rgb(255, 255, 255) !important;
+}
+/* style attribute change */
+.historyedits {
+  color: teal;
+}
+/* style attribute change */
+.resumeedits {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: pink;
+  font-weight: bolder !important;
+}
+/* style attribute change */
+.education {
+  text-decoration: underline;
+  text-decoration-color: pink;
+  text-decoration-style: wavy;
+  font-weight: bolder !important;
+}
+/* style attribute change */
+.skills {
+  text-decoration: underline;
+  text-decoration-color: pink;
+  text-decoration-style: double;
+  font-weight: bolder !important;
+}
+/* style attribute change to font type */
+.title1 {
+  font-family: cursive;
+}
+/* style attribute change to font type */
+.quote1 {
+  font-family: fantasy;
+}
+/* added background to history section*/
+.historyy {
+  background-color: teal !important;
+}
+
+
+  
+
